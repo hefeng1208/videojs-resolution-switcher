@@ -104,6 +104,8 @@ YouTube tech form https://github.com/eXon/videojs-youtube
 
 ```
 
+Demo: https://codepen.io/tomByrer/pen/BMQymJ
+
 ### Flash tech
 
 When using flash tech `preload="auto"` is required.
